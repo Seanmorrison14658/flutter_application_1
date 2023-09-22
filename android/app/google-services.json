@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1038150588817",
+    "firebase_url": "https://cognation-3a113-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "cognation-3a113",
+    "storage_bucket": "cognation-3a113.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038150588817:android:e8832dc5e4839ff14be230",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNmhxGZ77TXzJUqaSiM8LKeNS-pVEFRPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
